@@ -1,0 +1,108 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CustomerMasterPage.master.cs" Inherits="Karyabi.MasterPages.CustomerMasterPage" %>
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>قالب شرکتی آسمان | درباره ما</title>
+    <link href="../HtmlPages/style.css" rel="stylesheet" />
+    <link href="../Content/MyStyle.css" rel="stylesheet" />
+<script src="js/jquery.js"></script>
+<script src="js/vahid-majidi.js"></script>
+<link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+<div id="main">
+
+
+
+
+<header>
+<div id="header"><a href="index.html"><img class="center" src="../HtmlPages/images/logo222.png" alt="logo"></a></div>
+</header>
+
+
+
+
+<nav>
+    <form id="form1" runat="server">
+<div class="right">
+    <div class="navbar">
+            <header><div class="title"><h1>اطلاعات جاری</h1></div></header>
+            <div class="center c-nav">
+                <p>
+            	<asp:ContentPlaceHolder id="cphUserInfo" runat="server" />
+                 </p>
+            </div>
+    </div>
+
+
+
+    
+    
+    
+<aside>    
+<div class="navbar">
+        <header><div class="title"><h1> وضعیت </h1></div></header>
+        <div class="center c-nav">
+            <p>
+       	 <asp:ContentPlaceHolder id="cphSubUserInfo" runat="server" />
+                </p>
+
+        </div>
+</div>
+</aside>
+    
+    
+
+    
+    
+</div>
+</nav>
+
+
+
+<article>
+<div class="left">
+	<div class="content">
+    	<header><div class="title"><h1>درباره ما</h1></div></header>
+        <section>
+            <div class="center c-content">
+                <p>
+                    <asp:ContentPlaceHolder ID="cphMain" runat="server"></asp:ContentPlaceHolder>
+
+                </p>
+            </div>
+        </section>
+    </div>
+</div>
+</article>
+    </form>
+
+
+
+
+<section>
+<div class="mokhtasar">
+        <div class="title"><h1>کیفیت را با ما تجربه کنید</h1></div>
+</div>
+</section>
+
+
+
+
+
+<footer>
+<div id="footer"><img alt="اسکریپت دات کام" class="center" src="../HtmlPages/images/footer.png"></div>
+<span style="display:none;">Design By Vahid Majidi | Powered By اسکریپت.com</span>
+</footer>
+
+
+
+
+</div>
+</body>
+</html>

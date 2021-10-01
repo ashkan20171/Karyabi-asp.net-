@@ -1,0 +1,53 @@
+﻿.TextBox {
+    text-align:right;
+    font-family:'B Homa';
+    font-size:16px;
+    border-radius:4px;
+    float:right;
+    /**/
+        -webkit-transition:all 1s;
+	-o-transition:all 1s;
+	-ms-transition:all 1s;
+	-moz-transition:all 1s;
+	transition:all 1s;
+}
+.TextBox:hover{
+   background-color:cadetblue;
+}
+.Button {
+   text-align:center;
+	clear:both;
+	width:60px;
+	height:50px;
+	background-color:#3f84df;
+    font-family:'B Homa';
+	-webkit-transition:all 1s;
+	-o-transition:all 1s;
+	-ms-transition:all 1s;
+	-moz-transition:all 1s;
+	transition:all 1s;
+}
+
+.Button:hover {
+ background-color:#d00;
+ 
+}
+.validation
+{
+    color:red;
+}
+.btnExit
+{
+   text-align:center;
+   font-family:'B Homa';
+   font-size:18px;
+   border-radius:4px;
+   -ms-transition:all 1s;
+
+}
+.btnExit:hover
+{
+    color:red;
+    background-color:black;
+    -ms-transition:all 1s;
+}

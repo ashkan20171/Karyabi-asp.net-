@@ -1,0 +1,22 @@
+﻿C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\bin\Karyabi.dll.config
+C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\bin\Karyabi.dll
+C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\bin\Karyabi.pdb
+C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\obj\Debug\Karyabi.dll
+C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\obj\Debug\Karyabi.pdb
+C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\bin\EntityFramework.dll
+C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\bin\EntityFramework.SqlServer.dll
+C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\bin\EntityFramework.xml
+C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\bin\EntityFramework.SqlServer.xml
+C:\Users\ASHKAN-PC\Desktop\Karyabi\Karyabi\obj\Debug\Karyabi.csprojResolveAssemblyReference.cache
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\bin\Karyabi.dll.config
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\bin\Karyabi.dll
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\bin\Karyabi.pdb
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\bin\EntityFramework.dll
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\bin\EntityFramework.SqlServer.dll
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\bin\EntityFramework.xml
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\bin\EntityFramework.SqlServer.xml
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\obj\Debug\Karyabi.csproj.CoreCompileInputs.cache
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\obj\Debug\Karyabi.csproj.CopyComplete
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\obj\Debug\Karyabi.dll
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\obj\Debug\Karyabi.pdb
+D:\21.0\اموزش سیستم مدیریت کاریابی\Karyabi\Karyabi\obj\Debug\Karyabi.csprojAssemblyReference.cache

@@ -1,0 +1,125 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MyMasterPage.master.cs" Inherits="Karyabi.MasterPages.MyMasterPage" %>
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>قالب کاریابی اشکان | درباره ما</title>
+<link href="../HtmlPages/style.css" rel="stylesheet">
+<script src="../HtmlPages/js/jquery.js"></script>
+<script src="../HtmlPages/js/ashkan-mataee.js"></script>
+<link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+    <form id="form1" runat="server">
+<div id="main">
+
+
+
+
+    <header>
+<div id="header"><a href="index.html"><img class="center" src="../HtmlPages/images/logo.png" ></a></div>
+</header>
+
+
+
+
+<nav>
+<div class="right">
+    <div class="navbar">
+            <header><div class="title"><h1>صفحات</h1></div></header>
+            <div class="center c-nav">
+            	<ul>
+                	<li><a href="../Default.aspx">صفحه اصلی</a></li>
+                    <li><a href="#">ورود مدیر</a></li>
+                    <li><a href="../Register.aspx">ثبت نام</a></li>
+                    
+                </ul>
+            </div>
+    </div>
+
+
+
+    
+    
+    
+<aside> 
+   
+<div class="navbar">
+        <header style="height: 73px;"><div class="title"><h1>ورود کاربران</h1>
+            </div></header>
+  
+        <div class="center c-nav" style="background-color:gray">
+         <asp:ContentPlaceHolder ID="cphlogin" runat="server">
+              </asp:ContentPlaceHolder>
+        </div>
+       
+</div>
+
+    <div class="navbar">
+        <header style="height: 73px;"><div class="title"><h1>مشخصات </h1>
+            </div></header>
+  
+        <div class="center c-nav" style="background-color:gray">
+         <asp:ContentPlaceHolder ID="cph_new" runat="server">
+              </asp:ContentPlaceHolder>
+        </div>
+       
+</div>
+     
+</aside>
+   
+    
+    
+
+    
+    
+</div>
+</nav>
+
+
+
+<article>
+<div class="left">
+	<div class="content">
+    	<header><div class="title"><h1>اخبار</h1></div></header>
+        <section>
+            <div class="center c-content">
+                <asp:ContentPlaceHolder ID="cphmain" runat="server">
+                <p>مطلب مورد نظر خود را در اینجا بنویسید</p>
+            </div>
+            </asp:ContentPlaceHolder>
+        </section>
+    </div>
+</div>
+</article>
+
+
+
+
+
+<section>
+<div class="mokhtasar">
+        <div class="title"><h1>کیفیت را با ما تجربه کنید</h1></div>
+</div>
+</section>
+
+
+
+
+
+<footer>
+<div id="footer"><img alt="اسکریپت دات کام" class="center" src="../HtmlPages/images/footer.png" ></div>
+<span style="display:none;">Design By Ashkan Mataee | Powered By اسکریپت.com</span>
+</footer>
+
+
+
+
+</div>
+    </form>
+</body>
+</html>
+<!--Design By Ashkan Mataee | Powered By اسکریپت.com-->
